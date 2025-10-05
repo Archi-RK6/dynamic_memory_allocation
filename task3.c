@@ -29,7 +29,7 @@ int main(){
 	
 	printf("Array after resizing: ");
     	for (int i = 0; i < new_n; i++) {
-        	printf("%d ", arr[i]);
+        	printf("%d ", new_arr[i]);
     	}
 	printf("\n");
 
